@@ -9,6 +9,9 @@
   },
   "keywords": ["storage", "upload", "javascript"],
   "license": "MIT",
+  "dependencies": {
+    "@xmldom/xmldom": "^0.8.10"
+  },
   "devDependencies": {
     "jest": "^29.0.0",
     "@babel/core": "^7.24.0",
